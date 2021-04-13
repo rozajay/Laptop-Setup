@@ -5,6 +5,11 @@
 
 [Instructions on oh-my-zsh](https://gist.github.com/kevin-smets/8568070)
 
+## Integrate with VS Code
+
+Use this to allow VS Code to open iTerm upon right click of a particular file
+![Screenshot](Extension.png)
+
 ## Useful shortcutes for iTerm
 1. command + T to open a new window.
 2. command + num or arrow to move between windows.
